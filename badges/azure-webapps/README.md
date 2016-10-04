@@ -4,6 +4,7 @@
 # Learning Materials
 - Free Microsoft Press book: Funamentals of Azure, published Sep 2016. See chapter 2, via [Microsoft Virtual Academy](https://mva.microsoft.com/ebooks?whr=uri:MicrosoftAccount&countrycode=ZA&channel=AnonymousAuthenticated&lng=en-US)
 - [Pluralsight course for exam 70-532](https://www.pluralsight.com/courses/azure-solutions-web-apps-70-532), covering web apps specifically.
+- The [official documentation](https://azure.microsoft.com/en-gb/documentation/services/app-service/) is well written and comprehensive.
 
 # Earning the badge
 - Level 1: Pass a multiple-choice exam.
